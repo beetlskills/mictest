@@ -21,5 +21,5 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 8. There should be a waveform on the Serial Plotter whenever there is a loud noise (e.g. knock on table). 
 
-Third commit
+First commit
 
