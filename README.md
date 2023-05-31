@@ -1,7 +1,7 @@
 Upon Download
 1. Rename the folder containing mictest.ino as "mictest".
 
-Arduino Setting WOWOW
+Arduino Setting
  
 1. Go to Arduino IDE's File/Preferences menu. Enter the following Additional boards manager URLs: 
 
