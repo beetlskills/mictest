@@ -7,7 +7,7 @@ Arduino Setting
 
 https://dl.espressif.com/dl/package_esp32_index.json
 
-2. Go to Tools/Board/Boards Manager menu. Search for ESP32. Install board support package for ESDP32 from Espressif Systems
+2. Go to Tools/Board/Boards Manager menu. Search for ESP32. Install board support package for ESP32 from Espressif Systems
 
 3. Go to Tools/Board/esp32 and select ESP32 Wrover Module
 
