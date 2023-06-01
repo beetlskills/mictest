@@ -1,5 +1,5 @@
-Upon Download
-1. Rename the folder containing mictest.ino as "mictest".
+The project folder is "mictest".
+
 
 Arduino Setting
  
@@ -20,6 +20,4 @@ https://dl.espressif.com/dl/package_esp32_index.json
 7. Once running, select Tools/Serial Plotter. 
 
 8. There should be a waveform on the Serial Plotter whenever there is a loud noise (e.g. knock on table). 
-
-First commit
 
